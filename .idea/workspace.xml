@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eee5b634-dd34-42f7-8504-3efa9452934b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577335016021</updated>
       <workItem from="1577335017585" duration="5269000" />
-      <workItem from="1577414254519" duration="8988000" />
+      <workItem from="1577414254519" duration="9287000" />
     </task>
     <servers />
   </component>
