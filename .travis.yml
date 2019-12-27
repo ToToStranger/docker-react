@@ -1,10 +1,8 @@
-sudo: required
+sudo: require
 services:
-  - docker
+  -docker
 
-
-  before_install:
-    - docker build -t strangerman/docker-react -f Dockerfile.dev .
-
-  script:
-    - docker run strangerman/docker-react npm run test -- --coverage
+before_install:
+  - docker build -t strangerman/docker-react -f Dockerfile.dev .
+script:
+  - - docker run strangerman/docker-react npm run test -- --coverage
