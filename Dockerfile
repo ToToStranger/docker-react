@@ -8,4 +8,4 @@ RUN npm run build
 CMD
 
 FROM nginx
-COPY --from=builder /app/build /usr/share/nginx/html 
+COPY --from=builder /app/build /usr/share/nginx/html
